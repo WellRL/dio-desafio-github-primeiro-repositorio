@@ -17,7 +17,7 @@ Análise -> Refinamento -> Teste ->
 - Dedução -> Previsões -> Sintética
 - Abdução -> Premissa -> Pressupor -> Analítica
 
-#Algoritmos
+# Algoritmos
 
 Narrativa - Fluxograma - Pseudocódigo
 

@@ -23,8 +23,11 @@
 - Unido
 
 **V** - Volátil
+
 **U** - Incerto
+
 **C** - Complexo
+
 **A** - Ambíguo
 
 ## Processo
