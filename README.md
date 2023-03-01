@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/Github - Bootcamp Banco PAN Java Developer
+# Desafio de projeto Git/Github da DIO
+Repositório criado para Desafio de Projeto
