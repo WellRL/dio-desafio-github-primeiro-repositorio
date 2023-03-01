@@ -1,9 +1,9 @@
 # Overview
 
-Decomposição -> Dividir em partes
-Reconecimento de Padrões -> Encontrar padrões
-Abstração -> Forma generalista
-Design de algoritmos -> Definir passo a passo
+- Decomposição -> Dividir em partes
+- Reconecimento de Padrões -> Encontrar padrões
+- Abstração -> Forma generalista
+- Design de algoritmos -> Definir passo a passo
 
 Processo contínuo -> Aperfeiçoamento
 
@@ -13,37 +13,36 @@ Análise -> Refinamento -> Teste ->
 
 # Raciocínio Lógico
 
-Indução -> Leis e teorias -> Observação -> Sintética
-Dedução -> Previsões -> Sintética
-Abdução -> Premissa -> Pressupor -> Analítica
+- Indução -> Leis e teorias -> Observação -> Sintética
+- Dedução -> Previsões -> Sintética
+- Abdução -> Premissa -> Pressupor -> Analítica
 
 #Algoritmos
 
 Narrativa - Fluxograma - Pseudocódigo
 
-##Técnica Linear
+## Técnica Linear
 
 Execução sequenciada
 Única dimensão -Limitada - Recursos Limitados
 
-##Técnica Estruturada
+## Técnica Estruturada
 
 Modelo de desenvolvimento e resolução 
 Mais opções
 
-##Técnica Modular
+## Técnica Modular
 
 Partes independentes
 Entrada -> Processo -> Saída
 
-#Variável - Ação ou Controle
+# Variável - Ação ou Controle
 
-#Constante - imutáveis
+# Constante - imutáveis
 
-#Código
+# Código
 
-Legibilidade
-Redigibilidade
-Confiabilidade
-Baixo Custo
-
+- Legibilidade
+- Redigibilidade
+- Confiabilidade
+- Baixo Custo
